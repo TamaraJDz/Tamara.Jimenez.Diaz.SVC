@@ -11,4 +11,9 @@ public class C21 {
 		String name = "m2";
 		return name;
 	}
+	
+	public String m3(){
+		String name = "m3";
+		return name;
+	}
 }
